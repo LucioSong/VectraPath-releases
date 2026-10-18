@@ -2,11 +2,11 @@
 
 > *Vector paths, engraved.*
 
-**갈보(Galvo) 레이저 마킹을 위한 설계 · 데이터 · 내보내기 도구** (Windows)
-Design · variable data · export tool for galvo laser marking.
+**레이저 가공을 위한 설계 · 데이터 · 내보내기 도구** (Windows)
+Design · variable data · export tool for galvo laser processing.
 
 로고 · 자동증가 시리얼 · 바코드를 올리고, N개로 배치하고, 마킹 순서를 정해서 —
-**지금 쓰고 있는 마킹 SW(laserDESK · EZCAD · LightBurn · GRBL 등)에서 바로 여는 파일**로 내보냅니다.
+**지금 쓰고 있는 레이저 가공 SW에서 바로 여는 파일**로 내보냅니다.
 레이저 장비 없이도 도면과 데이터를 끝까지 준비할 수 있습니다.
 
 이 저장소는 **설치 파일 배포용**입니다(소스 코드는 포함하지 않습니다).

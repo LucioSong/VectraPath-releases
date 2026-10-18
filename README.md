@@ -24,6 +24,7 @@ Design · variable data · export tool for galvo laser processing.
 - 배치: Array(N-up) · 정렬 · 분배 · 마킹 순서(최단 이동 · 행/열 · 지그재그)
 - 가져오기 DXF · SVG / 내보내기 DXF · SVG · PLT · PDF · G-code
 - (옵션) 카메라 · 비전: 웹캠 보정 · 화면 위 카메라 영상 · 기준 모양 찾기 → 정렬 내보내기 — 처음엔 꺼져 있음, `Settings › Use Vision (Camera)` 로 켜기
+- 작업 안전: 3분마다 자동 저장 · 비정상 종료 뒤 복구 · 최근 파일 8개
 - 한국어 / English, 사용자 매뉴얼(PDF — Help › User Manual)
 
 ## 설치 · Install
@@ -36,7 +37,7 @@ Design · variable data · export tool for galvo laser processing.
 ## 문의 · Feedback
 
 버그 · 요청은 이 저장소의 **[Issues](../../issues)** 에 남겨 주세요.
-오류가 났다면 설치 폴더의 `vectrapath.log`(기본 `%LocalAppData%\Programs\VectraPath`) 를 함께 첨부해 주시면 도움이 됩니다.
+오류가 났다면 앱의 **도움말 › 로그 폴더 열기**(Help › Open Log Folder)로 `vectrapath.log` 를 찾아 함께 첨부해 주시면 도움이 됩니다(위치 `%LocalAppData%\VectraPath` — 0.1.1 이하는 설치 폴더).
 
 ---
 VectraPath 는 개인 프로젝트입니다(무료 공개 버전). 사용한 오픈소스 · 서드파티 고지는 설치 폴더의 `THIRD_PARTY_NOTICES.md` 를 참고하세요.
